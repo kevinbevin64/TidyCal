@@ -1,5 +1,5 @@
 # TidyCal
-Present iCalendar and Google Calendar events—tidily.
+Present iCalendar events in a tidy image.
 
 ## Plan
 - Create ingestor for iCalendar and Google Calendar events
